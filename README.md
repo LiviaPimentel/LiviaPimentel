@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Lívia Pimentel! 👋
 
-<!--
-**LiviaPimentel/LiviaPimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Current Position**  
+- **Data Scientist** @ Quantum Black, AI by McKinsey, São Paulo, Brazil
 
-Here are some ideas to get you started:
+🚀 **Professional Experience**  
+I have a solid background in Machine Learning, specializing in developing models from experimentation to deployment, driving measurable impact.
+Here are some highlights of my career:
+- Spearheaded end-to-end machine learning projects in the energy pricing sector, from data collection to model deployment in the context of MLOps.
+- Developed autopilot and image recognition systems for drones, showcasing innovative solutions in computer vision using synthetic datasets.
+- Conducted research and applied machine learning models to detect intruder drones, presenting findings at the SIGE conference @ ITA ([Paper](https://www.sige.ita.br/edicoes-anteriores/2021/st/217759_1.pdf)).
+- Working with GenAI and Multi-Agent workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍🏫 **Volunteer Work**  
+- Mentor at TechInnovation School for Girls, supporting young girls aged 8-18 in using innovative methods to develop mobile apps that address issues related to the Sustainable Development Goals ([Website](https://www.technovation.org/))
+
+📫 **Let's connect!**  
+- [LinkedIn](https://www.linkedin.com/in/liviafpimentel)
+- [Medium](https://medium.com/@liviafragoso.pi)
+
+
