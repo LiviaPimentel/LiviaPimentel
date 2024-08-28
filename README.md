@@ -2,7 +2,7 @@
 
 💼 **Current Position**  
 - **Data Scientist** @ Quantum Black, AI by McKinsey, São Paulo, Brazil
-
+  
 🚀 **Professional Experience**  
 I have a solid background in Machine Learning, specializing in developing models from experimentation to deployment, driving measurable impact.
 Here are some highlights of my career:
