@@ -3,7 +3,7 @@
 🚀 **Professional Experience**  
 I have a solid background in Machine Learning, specializing in developing models from experimentation to deployment, driving measurable impact.
 Here are some highlights of my career:
-- Spearheaded end-to-end machine learning projects in the energy pricing sector, from data collection to model deployment in the context of MLOps.
+- Led end-to-end machine learning projects in the energy pricing sector, from data collection to model deployment.
 - Developed autopilot and image recognition systems for drones, showcasing innovative solutions in computer vision using synthetic datasets.
 - Conducted research and applied machine learning models to detect intruder drones, presenting findings at the SIGE conference @ ITA ([Paper](https://www.sige.ita.br/edicoes-anteriores/2021/st/217759_1.pdf)).
 - Currently delving into GenAI. Check my latest repos: [genai-foundations](https://github.com/LiviaPimentel/genai-foundations) and [autogen travelplanner](https://github.com/LiviaPimentel/autogen-travelplanner)
